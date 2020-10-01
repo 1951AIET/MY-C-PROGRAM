@@ -4,6 +4,6 @@ THIS IS MY FIRST C PROGRAM
 #include<conio.h>
 main()
 {
-  print("HELLO WORLD>> THIS IS MY FIRST C PROGRAM");
+  printf("HELLO WORLD>> THIS IS MY FIRST C PROGRAM");
   return 0;
 }
